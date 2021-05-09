@@ -1,0 +1,23 @@
+INFO    2021-05-09 20:48:15,501 [pool-1-thread-1] com.test.Steps.BaseSteps  - Config properties file loaded
+INFO    2021-05-09 20:48:16,234 [pool-1-thread-1] com.test.Steps.BaseSteps  - Launching : chrome
+INFO    2021-05-09 20:48:19,478 [pool-1-thread-1] com.test.Steps.BaseSteps  - Driver Initialized !!!
+INFO    2021-05-09 20:48:20,622 [pool-1-thread-1] com.test.Steps.BaseSteps  - Browser Opened :chrome
+INFO    2021-05-09 20:48:24,561 [pool-1-thread-1] com.test.Steps.BaseSteps  - Weather HomePage openend with urlhttps://weather.com/
+INFO    2021-05-09 20:48:24,561 [pool-1-thread-1] com.test.Steps.BaseSteps  - Check user should be on WeatherHomePage
+INFO    2021-05-09 20:48:28,680 [pool-1-thread-1] com.test.Steps.BaseSteps  - Enter City Delhi
+INFO    2021-05-09 20:48:31,548 [pool-1-thread-1] com.test.Steps.BaseSteps  - Temperature value for cityDelhi is31
+INFO    2021-05-09 20:48:32,875 [pool-1-thread-1] com.test.Steps.BaseSteps  - Test Execution Completed !!!
+INFO    2021-05-09 20:48:32,875 [pool-1-thread-1] com.test.Steps.BaseSteps  - Launching : chrome
+INFO    2021-05-09 20:48:36,183 [pool-1-thread-1] com.test.Steps.BaseSteps  - Driver Initialized !!!
+INFO    2021-05-09 20:48:37,316 [pool-1-thread-1] com.test.Steps.BaseSteps  - Browser Opened :chrome
+INFO    2021-05-09 20:48:40,553 [pool-1-thread-1] com.test.Steps.BaseSteps  - Weather HomePage openend with urlhttps://weather.com/
+INFO    2021-05-09 20:48:40,553 [pool-1-thread-1] com.test.Steps.BaseSteps  - Check user should be on WeatherHomePage
+INFO    2021-05-09 20:48:42,775 [pool-1-thread-1] com.test.Steps.BaseSteps  - Enter City Indore
+INFO    2021-05-09 20:48:47,989 [pool-1-thread-1] com.test.Steps.BaseSteps  - Temperature value for cityIndore is31
+INFO    2021-05-09 20:48:49,267 [pool-1-thread-1] com.test.Steps.BaseSteps  - Test Execution Completed !!!
+INFO    2021-05-09 20:48:49,273 [pool-1-thread-1] com.test.Steps.BaseSteps  - Verify API response for Delhi
+INFO    2021-05-09 20:48:49,562 [pool-1-thread-1] com.test.Steps.BaseSteps  - Verify API response for Indore
+INFO    2021-05-09 20:48:49,811 [pool-1-thread-1] com.test.Steps.BaseSteps  - API and UI value matches with variance for city Delhi
+INFO    2021-05-09 20:48:49,811 [pool-1-thread-1] com.test.Steps.BaseSteps  - API and UI value matches with variance for city Indore
+INFO    2021-05-09 20:48:49,813 [pool-1-thread-1] com.test.Steps.BaseSteps  - Scenario Passed Compare Results of Weather UI with API
+INFO    2021-05-09 20:48:49,903 [pool-1-thread-1] com.test.Steps.BaseSteps  - Test Execution Completed !!!
